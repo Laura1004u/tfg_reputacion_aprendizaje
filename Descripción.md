@@ -8,7 +8,7 @@ Este trabajo analiza la reputación online de restaurantes utilizando técnicas 
 
 El estudio combina información estructurada de restaurantes y usuarios con información no estructurada procedente de reseñas online.
 
-Se aplican técnicas de clustering, NLP y modelos predictivos Random Forest con el objetivo de identificar patrones de comportamiento en las opiniones y analizar su relación con la valoración y supervivencia de los restaurantes.
+Se aplican técnicas diversas técnicas con el objetivo de identificar patrones de comportamiento en las opiniones de los usuarios en la plataforma Yelp y analizar su relación con la valoración y supervivencia de los restaurantes.
 
 ## Contenido del repositorio
 
