@@ -1,4 +1,4 @@
-# Reputación online en restauración: análisis de opiniones con aprendizaje supervisado y no supervisado
+# Reputación online en restauración mediante aprendizaje supervisado y no supervisado
 
 Repositorio correspondiente al Trabajo Fin de Grado del Grado en Estadística y Empresa.
 
